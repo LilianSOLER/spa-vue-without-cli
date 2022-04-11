@@ -1,6 +1,6 @@
 const kevinJInfo = {
 	name: "Kevin J",
-	classe: "6ème",
+	class: "6ème",
 	cours: [
 		{
 			month: "Janvier",
@@ -8,11 +8,11 @@ const kevinJInfo = {
 				{
 					day: "24",
 					title: "Cours Nombre décimaux",
-					link: "media/image/cours_24_01_kevin_j.pdf",
+					link: "cours/kevin-j/24-01-kevin-j.pdf",
 				},
 				{
 					day: "24",
-					title: "Execercice calcul nombre décimaux",
+					title: "Exercice calcul nombre décimaux",
 					link: "https://forms.gle/6iPu3JCByMBztR9t8",
 				},
 			],
@@ -23,32 +23,32 @@ const kevinJInfo = {
 				{
 					day: "07",
 					title: "Cours Angle et Correction DS",
-					link: "media/image/cours_07_02_kevin_j.pdf",
+					link: "cours/kevin-j/07-02-kevin-j.pdf",
 				},
 				{
 					day: "07",
 					title: "Exercice opérations",
-					link: "media/image/exo_operations_6.pdf",
+					link: "cours/kevin-j/exo-operations.pdf",
 				},
 				{
 					day: "07",
 					title: "Exercice mesure angle",
-					link: "media/image/exo_mesure_angle_6.pdf",
+					link: "cours/kevin-j/exo-mesure-angle.pdf",
 				},
 				{
 					day: "14",
 					title: "Cours Opération",
-					link: "media/image/cours_14_02_kevin_j.pdf",
+					link: "cours/kevin-j/14-02-kevin-j.pdf",
 				},
 				{
 					day: "28",
 					title: "Astuce pour gagner au jeu de la course",
-					link: "media/image/astuce_28_02_kevin_j.pdf",
+					link: "cours/kevin-j/28-02-kevin-j.pdf",
 				},
 				{
 					day: "28",
 					title: "Exercice opération",
-					link: "media/image/exo_operations_7.pdf",
+					link: "cours/kevin-j/exo-operations-2.pdf",
 				},
 			],
 		},
@@ -58,12 +58,12 @@ const kevinJInfo = {
 				{
 					day: "07",
 					title: "Correction EX9 et Cours division Euclidienne",
-					link: "media/image/cours_07_03_kevin_j.pdf",
+					link: "cours/kevin-j/07-03-kevin-j.pdf",
 				},
 				{
 					day: "07",
 					title: "Exercice division euclidienne",
-					link: "https://docs.google.com/forms/d/e/1FAIpQLScDst6wYCwirF294u_OGsniviXvkSrK9TzOWB7V_-r0jhDnsA/viewform?usp=sf_link",
+					link: "https://forms.gle/ptHbfwB89ijoKFY29",
 				},
 				{
 					day: "14",
@@ -73,7 +73,7 @@ const kevinJInfo = {
 				{
 					day: "28",
 					title: "Cours & Exo Polygone",
-					link: "media/image/cours_28_03_kevin_j.pdf",
+					link: "cours/kevin-j/28-03-kevin-j.pdf",
 				},
 			],
 		},
@@ -83,7 +83,12 @@ const kevinJInfo = {
 				{
 					day: "04",
 					title: "Exo Division / Polygone",
-					link: "#",
+					link: "https://forms.gle/YMjCnpWGPEJjfBwA9",
+				},
+				{
+					day: "11",
+					title: "Cours & Exo Priorité d'opération - Unité de temps",
+					link: "cours/kevin-j/11-04-kevin-j.pdf",
 				},
 			],
 		},

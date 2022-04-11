@@ -8,12 +8,12 @@ const amandineInfo = {
         {
           day: "21/10",
           title: "Entrainement Fraction",
-          link: "./cours/amandine/maths/exo-fraction.pdf"
+          link: "./cours/amandine/exo-fraction.pdf"
         },
         {
           day: "25/11",
           title: "Entrainement Vecteur",
-          link: "./cours/amandine/maths/exo-vecteur.pdf"
+          link: "./cours/amandine/exo-vecteur.pdf"
         },
       ]
     },

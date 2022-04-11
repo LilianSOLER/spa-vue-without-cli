@@ -6,31 +6,27 @@ const programmationWebInfo = {
 			subContents: [
 				{
 					title: "Calcul d'intérêts composés (niv. 1-2)",
-					link: "./info3/programmation-web/allegre/exercices/TP1/calcul.html",
+					link: "school/info3/programmation-web/allegre/TP1/calcul.html",
 				},
 				{
 					title: "Un peu de style en CSS (niv. 1)",
-					link: "./info3/programmation-web/allegre/exercices/TP1/",
+					link: "school/info3/programmation-web/allegre/TP1/elements.html",
 				},
 				{
 					title: "Table de multiplication (niv. 1-2)",
-					link: "./info3/programmation-web/allegre/exercices/TP1/multiplication.php",
+					link: "school/info3/programmation-web/allegre/TP1/multiplication.php",
 				},
 				{
 					title: "Analyse des Caractères Unicode (niv. 2)",
-					link: "./info3/programmation-web/allegre/exercices/TP1/unicode.php",
+					link: "school/info3/programmation-web/allegre/TP1/unicode.php",
 				},
 				{
 					title: "Affichage d'un tableau générique (niv. 2)",
-					link: "./info3/programmation-web/allegre/exercices/TP1/multiplication_with_generic_table.php",
+					link: "school/info3/programmation-web/allegre/TP1/multiplication-with-generic-table.php",
 				},
 				{
 					title: "Calendrier - agenda web (niv. 3)",
-					link: "./info3/programmation-web/allegre/exercices/TP1/form_agenda.html",
-				},
-				{
-					title: "Calendrier - agenda web (niv. 3)",
-					link: "./info3/programmation-web/allegre/exercices/TP1/form_agenda_with-generic_table.php",
+					link: "school/info3/programmation-web/allegre/TP1/form-agenda.html",
 				},
 				{
 					title: "Télécharger le dossier",
@@ -43,7 +39,7 @@ const programmationWebInfo = {
 			subContents: [
 				{
 					title: "Compte-rendu",
-					link: "./info3/programmation-web/allegre/TD2/cr.md",
+					link: "school/info3/programmation-web/allegre/TD2/cr.md",
 				},
 				{
 					title: "Télécharger le dossier",
@@ -56,7 +52,7 @@ const programmationWebInfo = {
 			subContents: [
 				{
 					title: "Compte-rendu",
-					link: "./info3/programmation-web/allegre/TD3/cr.md",
+					link: "school/info3/programmation-web/allegre/TD3/cr.md",
 				},
 				{
 					title: "Télécharger le dossier",
@@ -69,11 +65,11 @@ const programmationWebInfo = {
 			subContents: [
 				{
 					title: "Compte-rendu",
-					link: "./info3/programmation-web/pittion/TD1/cr.md",
+					link: "school/info3/programmation-web/pittion/TD1/cr.md",
 				},
 				{
 					title: "Exercice 3",
-					link: "./info3/programmation-web/pittion/TD1/ex3.html",
+					link: "school/info3/programmation-web/pittion/TD1/exo-3.html",
 				},
 				{
 					title: "Télécharger le dossier",
@@ -86,11 +82,11 @@ const programmationWebInfo = {
 			subContents: [
 				{
 					title: "Compte-rendu",
-					link: "./info3/programmation-web/pittion/TD2/cr.md",
+					link: "school/info3/programmation-web/pittion/TD2/cr.md",
 				},
 				{
 					title: "To-do App VueJs",
-					link: "./info3/programmation-web/pittion/TD2/todo-list-vue-without-webpack/",
+					link: "school/info3/programmation-web/pittion/TD2/todo-list-vue-without-webpack/",
 				},
 				{
 					title: "Télécharger le dossier",

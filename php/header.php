@@ -1,6 +1,6 @@
 <header>
   <div class="header">
-    <router-link class="nav-link logo" id='typing' to="/"></router-link>
+    <a href="https://didelo.fr" id='typing' class="logo"></a>
     <div class="header-right">
       <div class="topnav" id="myTopnav">
         <div class="dropdown">
@@ -20,12 +20,12 @@
             <i class="fa fa-caret-down"></i>
           </button>
           <div class="dropdown-content">
-          <router-link class="nav-link" to="/cours/student/amandine">Amandine</router-link>
-          <router-link class="nav-link" to="/cours/student/salome">Salomé</router-link>
-          <router-link class="nav-link" to="/cours/student/slimane">Slimane</router-link>
-          <router-link class="nav-link" to="/cours/student/kevin-j">Kevin J</router-link>
-          <router-link class="nav-link" to="/cours/student/romain-b">Romain B</router-link>
-          <router-link class="nav-link" to="/cours/student/zoe-b">Zoé B</router-link>
+            <router-link class="nav-link" to="/cours/student/amandine">Amandine</router-link>
+            <router-link class="nav-link" to="/cours/student/salome">Salomé</router-link>
+            <router-link class="nav-link" to="/cours/student/slimane">Slimane</router-link>
+            <router-link class="nav-link" to="/cours/student/kevin-j">Kevin J</router-link>
+            <router-link class="nav-link" to="/cours/student/romain-b">Romain B</router-link>
+            <router-link class="nav-link" to="/cours/student/zoe-b">Zoé B</router-link>
           </div>
         </div>
 

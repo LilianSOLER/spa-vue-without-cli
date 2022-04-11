@@ -6,19 +6,19 @@ const introAuWebInfo = {
 			subContents: [
 				{
 					title: "Exercise 1",
-					link: "./peip2/intro-au-web/TD1/exo-1.html",
+					link: "school/peip2/intro-au-web/TD1/exo-1.html",
 				},
 				{
 					title: "Exercise 2",
-					link: "./peip2/intro-au-web/TD1/exo-2.html",
+					link: "school/peip2/intro-au-web/TD1/exo-2.html",
 				},
 				{
 					title: "Exercise 3",
-					link: "./peip2/intro-au-web/TD1/exo-3.html",
+					link: "school/peip2/intro-au-web/TD1/exo-3.html",
 				},
 				{
 					title: "Exercise 5",
-					link: "./peip2/intro-au-web/TD1/exo-5.html",
+					link: "school/peip2/intro-au-web/TD1/exo-5.html",
 				},
 			],
 		},
@@ -27,19 +27,19 @@ const introAuWebInfo = {
 			subContents: [
 				{
 					title: "Exercise 2",
-					link: "./peip2/intro-au-web/TD2/exo-2.html",
+					link: "school/peip2/intro-au-web/TD2/exo-2.html",
 				},
 				{
 					title: "Exercise 3",
-					link: "./peip2/intro-au-web/TD2/exo-3.html",
+					link: "school/peip2/intro-au-web/TD2/exo-3.html",
 				},
 				{
 					title: "Exercise 4",
-					link: "./peip2/intro-au-web/TD2/exo-4.html",
+					link: "school/peip2/intro-au-web/TD2/exo-4.html",
 				},
 				{
 					title: "Exercise 5",
-					link: "./peip2/intro-au-web/TD2/exo-5.html",
+					link: "school/peip2/intro-au-web/TD2/exo-5.html",
 				},
 			],
 		},
@@ -48,15 +48,15 @@ const introAuWebInfo = {
 			subContents: [
 				{
 					title: "Exercise 1",
-					link: "./peip2/intro-au-web/TD3/exo-1.html",
+					link: "school/peip2/intro-au-web/TD3/exo-1.html",
 				},
 				{
 					title: "Exercise 2",
-					link: "./peip2/intro-au-web/TD3/exo-2.html",
+					link: "school/peip2/intro-au-web/TD3/exo-2.html",
 				},
 				{
 					title: "Exercise 3",
-					link: "./peip2/intro-au-web/TD3/exo-3.html",
+					link: "school/peip2/intro-au-web/TD3/exo-3.html",
 				},
 			],
 		},
@@ -65,7 +65,7 @@ const introAuWebInfo = {
 			subContents: [
 				{
 					title: "Fichier du TD",
-					link: "./peip2/intro-au-web/TD7/",
+					link: "school/peip2/intro-au-web/TD7/",
 				},
 			],
 		},
@@ -74,7 +74,7 @@ const introAuWebInfo = {
 			subContents: [
 				{
 					title: "Fichier du TD",
-					link: "./peip2/intro-au-web/TD8/",
+					link: "school/peip2/intro-au-web/TD8/",
 				},
 			],
 		},

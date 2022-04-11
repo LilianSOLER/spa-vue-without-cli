@@ -8,7 +8,7 @@ const salomeInfo = {
         {
           day: "04/11",
           title: "Astuce Table et Calcul",
-          link: "./cours/salome/maths/astuce-table.pdf"
+          link: "./cours/salome/astuce-table.pdf"
         },
         {
           day: "04/11",

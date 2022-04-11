@@ -1,6 +1,6 @@
 const romainBInfo = {
 	name: "Romain B",
-	classe: "3ème",
+	class: "3ème",
 	cours: [
 		{
 			month: "Mars",
@@ -8,27 +8,27 @@ const romainBInfo = {
 				{
 					day: "09",
 					title: "Exo&Cours - Fonction - Thalès - Pythagore",
-					link: "media/image/cours_09_03_romain_b.pdf",
+					link: "cours/romain-b/09-03-romain-b.pdf",
 				},
 				{
 					day: "16",
 					title: "Exo&Cours - Factorisation - Trigo - Symétrie",
-					link: "media/image/cours_16_03_romain_b.pdf",
+					link: "cours/romain-b/16-03-romain-b.pdf",
 				},
 				{
 					day: "23",
 					title: "Exo&Cours - Trigo - Pourcentage - Brevet 2019",
-					link: "media/image/cours_23_03_romain_b.pdf",
+					link: "cours/romain-b/23-03-romain-b.pdf",
 				},
 				{
 					day: "23",
 					title: "Sujet Brevet 2019",
-					link: "media/image/sujet-brevet-mathematiques-2019_fiche-annale.pdf",
+					link: "cours/romain-b/sujet-brevet-mathematiques-2019.pdf",
 				},
 				{
 					day: "30",
 					title: "Exo & Cours - Proba",
-					link: "media/image/cours_30_03_romain_b.pdf",
+					link: "cours/romain-b/30-03-romain-b.pdf",
 				},
 			],
 		},
@@ -38,7 +38,7 @@ const romainBInfo = {
 				{
 					day: "06",
 					title: "Exo&Cours - Trigo - Semblable - Factorisation",
-					link: "media/image/cours_06_04_romain_b.pdf",
+					link: "cours/romain-b/06-04-romain-b.pdf",
 				},
 			],
 		},
