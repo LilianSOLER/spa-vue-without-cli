@@ -8,10 +8,10 @@
             <i class="fa fa-caret-down"></i>
           </button>
           <div class="dropdown-content">
-            <router-link class="nav-link" to="/peip2/arduino">Arduino 3-4</router-link>
-            <router-link class="nav-link" to="/peip2/intro-au-web">Intro au Web 3</router-link>
-            <router-link class="nav-link" to="/peip2/application-du-web">Applications du Web 4</router-link>
-            <router-link class="nav-link" to="/info3/programmation-web">Programmation Web 6</router-link>
+            <router-link class="nav-link" to="/school/peip2/arduino">Arduino 3-4</router-link>
+            <router-link class="nav-link" to="/school/peip2/intro-au-web">Intro au Web 3</router-link>
+            <router-link class="nav-link" to="/school/peip2/application-du-web">Applications du Web 4</router-link>
+            <router-link class="nav-link" to="/school/info3/programmation-web">Programmation Web 6</router-link>
           </div>
         </div>
 
@@ -23,6 +23,9 @@
           <router-link class="nav-link" to="/cours/student/amandine">Amandine</router-link>
           <router-link class="nav-link" to="/cours/student/salome">Salomé</router-link>
           <router-link class="nav-link" to="/cours/student/slimane">Slimane</router-link>
+          <router-link class="nav-link" to="/cours/student/kevin-j">Kevin J</router-link>
+          <router-link class="nav-link" to="/cours/student/romain-b">Romain B</router-link>
+          <router-link class="nav-link" to="/cours/student/zoe-b">Zoé B</router-link>
           </div>
         </div>
 

@@ -1,6 +1,5 @@
 let Home = {
-	template:
-		'<div class="home"><main><div v-for="article in articles"><article><p v-for="paragraph in article.paragraphs">{{ paragraph.text }}</p></article><hr></div></main></div>',
+	template: homeTemplate,
 	data: function () {
 		return {
 			articles: [

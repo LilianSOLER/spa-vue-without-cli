@@ -1,26 +1,33 @@
 <!-- Vue Template -->
-<script src="template/grid-template.js"></script>
+<script src="template/home-template.js"></script>
+<script src="template/school-template.js"></script>
 <script src="template/cours-template.js"></script>
 
 <!-- Student Info -->
 <script src="view/cours/student/amandine-info.js"></script>
 <script src="view/cours/student/salome-info.js"></script>
 <script src="view/cours/student/slimane-info.js"></script>
+<script src="view/cours/student/kevin-j-info.js"></script>
+<script src="view/cours/student/romain-b-info.js"></script>
+<script src="view/cours/student/zoe-b-info.js"></script>
 
 <script src="view/cours/utils/utils-student.js"></script>
 
 <script src="view/cours/student-info.js"></script>
 
+<!-- School Info -->
+<script src="view/school/subject/peip2/application-du-web-info.js"></script>
+<script src="view/school/subject/peip2/arduino-info.js"></script>
+<script src="view/school/subject/peip2/intro-au-web-info.js"></script>
+
+<script src="view/school/subject/info3/programmation-web-info.js"></script>
+
+<script src="view/school/school-info.js"></script>
 
 <!-- Vue Pages -->
 <script src="view/home.vue.js"></script>
-<script src="view/about.vue.js"></script>
-<script src="view/contact.vue.js"></script>
 
-<script src="view/school/peip2/arduino.vue.js"></script>
-<script src="view/school/peip2/intro-au-web.vue.js"></script>
-<script src="view/school/peip2/application-du-web.vue.js"></script>
-<script src="view/school/info3/programmation-web.vue.js"></script>
+<script src="view/school/school.vue.js"></script>
 
 <script src="view/cours/student.vue.js"></script>
 

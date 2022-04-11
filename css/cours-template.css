@@ -13,3 +13,8 @@
 .cours-template h1 {
 	text-align: center;
 }
+
+.cours-template {
+	border: 1px solid white;
+	overflow: none;
+}

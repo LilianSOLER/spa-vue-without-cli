@@ -1,13 +1,6 @@
 let routes = [
   { path: '/', component: Home },
-  { path: '/about', component: About },
-  { path: '/contact', component: Contact },
-
-  { path: '/peip2/arduino', component: Arduino },
-  { path: '/peip2/intro-au-web', component: IAW },
-  { path: '/peip2/application-du-web', component: ADW },
-  { path: '/info3/programmation-web', component: PW },
-
+  { path: '/school/:id1/:id2', component: School, props: true },
   { path: '/cours/student/:id', component: Student, props: true },
 ];
 

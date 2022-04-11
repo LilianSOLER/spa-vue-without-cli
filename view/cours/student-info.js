@@ -4,9 +4,9 @@ let StudentInfo =
     "amandine": amandineInfo,
     "salome": salomeInfo,
     "slimane": slimaneInfo,
-    // "kevin-j" : kevin-jInfo,
-    // "romain-b": romain-bInfo,
-    // "zoe-b": zoe-bInfo,
+    "kevin-j" : kevinJInfo,
+    "romain-b": romainBInfo,
+    "zoe-b": zoeBInfo,
   },
   utils: utilsInfo,
 };  
