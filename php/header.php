@@ -34,7 +34,7 @@
             <i class="fa fa-caret-down"></i>
           </button>
           <div class="dropdown-content">
-            <a title="Curriculum Vitae  long de SOLER Lilian" href="https://didelo.fr/lilian/media/image/cv.pdf">CV long </a>
+            <a title="Curriculum Vitae  long de SOLER Lilian" href="asset/cv.pdf">CV long </a>
             <a title="Curriculum Vitae court de SOLER Lilian" href="https://vcard.didelo.fr">CV court</a>
           </div>
         </div>
