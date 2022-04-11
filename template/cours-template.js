@@ -1,11 +1,11 @@
 let coursTemplate = `
 <div class="cours-template">
-  <h1>{{ student.classe }} - {{ upperFirstLetter(student.name) }}</h1>
+  <h1>{{ student.class }} - {{ upperFirstLetter(student.name) }}</h1>
     <ul class="parent">
-      <div v-for="month in student.cours">
-        <li>{{ month.name }}</li>
+      <div v-for="(cours, index) in student.cours" :key="'courses-'+ index">
+        <li>{{ cours.month }}</li>
         <ul>
-          <li v-for="lesson in month.lessons">
+          <li v-for="(lesson, index2) in cours.lessons" :key="'lesson-' + index2">
             <a :href="lesson.link">{{ lesson.day }} - {{ lesson.title }}</a>
           </li>
         </ul>
