@@ -1,0 +1,22 @@
+.grid-template .parent {
+	width: 100%;
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
+	grid-gap: 2vh 5vw;
+	margin-bottom: 2vh;
+}
+
+.parent div li{
+	width: 100%;
+  font-size: 1.5rem;
+}
+
+.grid-template h1 {
+  text-align: center;
+  font-size: 3rem;
+}
+
+.grid-template {
+	border: 1px solid white;
+	overflow: none;
+}
