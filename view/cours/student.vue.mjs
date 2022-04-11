@@ -1,4 +1,7 @@
-let Student = {
+import coursTemplate from '../../template/cours-template.mjs';
+import StudentInfo from './student-info.mjs';
+
+const Student = {
 	template: coursTemplate,
 	props: {
 		id: {
@@ -21,3 +24,5 @@ let Student = {
 		},
 	},
 };
+
+export default Student;

@@ -1,4 +1,7 @@
-let School = {
+import schoolTemplate from '../../template/school-template.mjs';
+import schoolInfo from './school-info.mjs';
+
+const School = {
 	template: schoolTemplate,
 	props: {
 		id1: {
@@ -23,3 +26,5 @@ let School = {
 		},
 	},
 };
+
+export default School;

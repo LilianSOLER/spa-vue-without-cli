@@ -1,4 +1,4 @@
-let coursTemplate = `
+const coursTemplate = `
 <div class="cours-template">
   <h1>{{ student.class }} - {{ upperFirstLetter(student.name) }}</h1>
     <ul class="parent">
@@ -23,3 +23,5 @@ let coursTemplate = `
     </ul>
 </div>
 `;
+
+export default coursTemplate;

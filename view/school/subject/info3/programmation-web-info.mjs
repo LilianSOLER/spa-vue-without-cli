@@ -1,4 +1,4 @@
-let programmationWebInfo = {
+const programmationWebInfo = {
 	title: "TD de Programmation Web :",
 	contents: [
 		{
@@ -100,3 +100,5 @@ let programmationWebInfo = {
 		},
 	],
 };
+
+export default programmationWebInfo;

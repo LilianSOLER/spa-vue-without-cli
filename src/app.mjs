@@ -1,3 +1,5 @@
+import router from "./routes.mjs";
+
 const app = Vue.createApp({});
 
 

@@ -1,4 +1,4 @@
-let arduinoInfo = {
+const arduinoInfo = {
 	title: "Arduino",
 	contents: [
 		{
@@ -59,3 +59,5 @@ let arduinoInfo = {
 		},
 	],
 };
+
+export default arduinoInfo;

@@ -1,4 +1,4 @@
-let utilsInfo = [
+const utilsInfo = [
   {
     title: "Tables (multiplication, addition, soustraction)",
     link: "php/apprendre_table.php?op=2",
@@ -12,3 +12,5 @@ let utilsInfo = [
     link: "php/rendu_exercice.php",
   },
 ]
+
+export default utilsInfo;

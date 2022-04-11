@@ -1,4 +1,4 @@
-let homeTemplate = `
+const homeTemplate = `
 <div class="home">
   <main>
     <div v-for="(article, index) in articles" :key="'article-' + index">
@@ -9,4 +9,5 @@ let homeTemplate = `
     </div>
   </main>
 </div>`;
-	
+
+export default homeTemplate;

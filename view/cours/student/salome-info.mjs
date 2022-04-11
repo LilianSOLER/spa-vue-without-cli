@@ -1,4 +1,4 @@
-let salomeInfo = {
+const salomeInfo = {
   name: "salomé",
   class: "6eme",
   cours: [
@@ -19,3 +19,5 @@ let salomeInfo = {
     },
   ],
 };
+
+export default salomeInfo;

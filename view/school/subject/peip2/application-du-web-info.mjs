@@ -1,4 +1,4 @@
-let applicationDuWebInfo = {
+const applicationDuWebInfo = {
 	title: "Application du Web",
 	contents: [
 		{
@@ -221,3 +221,5 @@ let applicationDuWebInfo = {
 		},
 	],
 };
+
+export default applicationDuWebInfo;

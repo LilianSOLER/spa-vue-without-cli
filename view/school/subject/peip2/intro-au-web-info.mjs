@@ -1,4 +1,4 @@
-let introAuWebInfo = {
+const introAuWebInfo = {
 	title: "Intro au Web",
 	contents: [
 		{
@@ -80,3 +80,5 @@ let introAuWebInfo = {
 		},
 	],
 };
+
+export default introAuWebInfo;

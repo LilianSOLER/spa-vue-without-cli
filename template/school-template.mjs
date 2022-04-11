@@ -11,3 +11,5 @@ const schoolTemplate = `<div class="school-template">
 		</div>
 	</ul>
 </div>`;
+
+export default schoolTemplate;
