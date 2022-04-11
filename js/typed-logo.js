@@ -1,4 +1,4 @@
-new TypeIt("#typing")
+const logo = new TypeIt("#typing")
 	.type("SOLER Lilian")
 	.pause(1000)
 	.delete()
@@ -13,3 +13,5 @@ new TypeIt("#typing")
 	.delete()
 	.type("SOLER Lilian")
 	.go();
+
+
