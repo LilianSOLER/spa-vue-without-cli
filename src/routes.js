@@ -8,7 +8,7 @@ let routes = [
   { path: '/peip2/application-du-web', component: ADW },
   { path: '/info3/programmation-web', component: PW },
 
-  { path: '/cours/student/:id', component: Student },
+  { path: '/cours/student/:id', component: Student, props: true },
 ];
 
 let router = VueRouter.createRouter({

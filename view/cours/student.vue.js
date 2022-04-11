@@ -1,12 +1,19 @@
 let Student = {
 	template: coursTemplate,
-	data() {
-		return {
-			name: StudentInfoData.name,
-			classe: StudentInfoData.class,
-			cours: StudentInfoData.cours,
-			utils: StudentInfoData.utils,
-		};
+	props: {
+		id: {
+			required: true,
+			type: String,
+			default: 'amandine',
+		},
+	},
+	computed: {
+		student() {
+			return StudentInfo.students[this.id];
+		},
+		utils() {
+			return StudentInfo.utils;
+		}
 	},
 	methods: {
 		upperFirstLetter(str) {

@@ -1,8 +1,8 @@
 let coursTemplate = `
 <div class="cours-template">
-  <h1>{{ classe }} - {{ upperFirstLetter(name) }}</h1>
+  <h1>{{ student.classe }} - {{ upperFirstLetter(student.name) }}</h1>
     <ul class="parent">
-      <div v-for="month in cours">
+      <div v-for="month in student.cours">
         <li>{{ month.name }}</li>
         <ul>
           <li v-for="lesson in month.lessons">
